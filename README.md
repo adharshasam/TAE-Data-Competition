@@ -2,7 +2,7 @@
 
 This README file consists of all files used by Team 18 to get predictions of general sentiments for tweets found in the test data.
 
-Team members:
+_Team members:_
 
 ✧ Adharsha Sam 
 
@@ -13,7 +13,7 @@ Team members:
 Upon running the code for every classification model created, csv files are created which we uploaded on the Kaggle platform 
 as submission files for the TAE Data Competition 2022.
 
-README:
+_README:_
 
 ✧ train.csv: This file containing 20,610 tweets with their corresponding sentiment was downloaded from the Kaggle competition platform. 
 We used this as the training dataset to train our classifiers on. We would like to emphasize that no additional data was augmented with 
