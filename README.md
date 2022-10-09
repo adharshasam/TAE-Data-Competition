@@ -22,8 +22,11 @@ train.csv.
 ✧ Only code files for best-performing classifiers are uploaded on this repository.
   
   ✧ best-performing classifiers: 
+  
     - Random Forests,
+    
     - Logistic Regression &
+    
     - Support Vector Machine 
 
 The folder also contains the random_forests_predictions.csv file which we selected as our final submission. 
