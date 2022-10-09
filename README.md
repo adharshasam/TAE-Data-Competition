@@ -4,6 +4,8 @@ This README file consists of all files used by Team 18 to get predictions of gen
 
 **_Team members:_**
 
+✧ Adharsha Sam
+
 ✧ Leon Puah  
 
 ✧ Ryan Seah  
