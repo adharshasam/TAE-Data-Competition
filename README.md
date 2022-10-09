@@ -28,6 +28,3 @@ train.csv.
     - Logistic Regression &
     
     - Support Vector Machine 
-
-The folder also contains the random_forests_predictions.csv file which we selected as our final submission. 
-This csv file can be reproduced by running the Random Forests R code.
