@@ -4,7 +4,9 @@ This README file consists of all files used by Team 18 to get predictions of gen
 
 Team members:
 ✧ Adharsha Sam 
+
 ✧ Leon Puah  
+
 ✧ Ryan Seah  
 
 Upon running the code for every classification model created, csv files are created which we uploaded on the Kaggle platform 
