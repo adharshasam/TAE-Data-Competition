@@ -1,6 +1,6 @@
 # TAE-Data-Competition-2022
 
-This Data Competition was part of an SUTD ESD core module <a href="https://esd.sutd.edu.sg/courses/40220-the-analytics-edge/" target="_blank">The Analytics Edge</a> and constitutes 28% of the final grade.
+This academic contest was held to test students on the material taught in an SUTD ESD core module: <a href="https://esd.sutd.edu.sg/courses/40220-the-analytics-edge/" target="_blank">40.220 The Analytics Edge</a>.
 
 This README file consists of all files used by Team 18 to get predictions of general sentiments for tweets found in the test data.
 
